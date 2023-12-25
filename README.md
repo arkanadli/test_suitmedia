@@ -1,3 +1,6 @@
 # test_suitmedia
 
-A new Flutter project.
+Projek yang dibuat untuk memenuhi tes internship Suitmedia
+<h1>Identitas</h1>
+Nama Lengkap  : Muhammad Arkan Adli
+Email         : muhammad.arkan@mhs.itenas.ac.id
